@@ -1,0 +1,48 @@
+PRINT "Enter first number:"
+READ
+PRINT "Enter second number:"
+READ
+ADD
+PRINT "sum = "
+TOP
+
+PRINT "\n---------------------\n"
+
+PRINT "Enter first number:"
+READ
+PRINT "Enter second number:"
+READ
+MUL
+PRINT "pro = "
+TOP
+
+PRINT "\n---------------------\n"
+
+PRINT "Enter first number:"
+READ
+PRINT "Enter second number:"
+READ
+SUB
+PRINT "diff = "
+TOP
+PRINT "\n---------------------\n"
+
+PRINT "Enter first number:"
+READ
+PRINT "Enter second number:"
+READ
+DIV
+PRINT "que = "
+TOP
+
+PRINT "\n---------------------\n"
+
+PRINT "Enter first number:"
+READ
+PRINT "Enter second number:"
+READ
+MOD
+PRINT "rem = "
+TOP
+
+HALT

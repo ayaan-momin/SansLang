@@ -1,0 +1,24 @@
+READ
+JUMP.EQ.0 L2
+JUMP.GT.0 L0
+JUMP.LS.0 L1
+HALT
+
+L0:
+PRINT "greater then 0"
+JUMP End
+HALT
+
+L1:
+PRINT "Less then 0"
+JUMP End
+HALT
+
+L2:
+PRINT "equal to zero"
+JUMP End
+HALT
+
+End:
+PRINT "\nuniversal end"
+HALT
